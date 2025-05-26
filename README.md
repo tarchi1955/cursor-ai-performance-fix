@@ -12,7 +12,7 @@ L'intervento consiste nello **spostare la cache e il progetto su un SSD esterno 
 
 ## ✅ Cosa troverai in questo repository
 
-- Un file Markdown (`Cursor_AI_Soluzione_Maurizio.md`) con la spiegazione completa:
+- Un file Markdown (`Cursor_AI_Soluzione.md`) con la spiegazione completa:
   - Problema iniziale
   - Soluzione passo-passo
   - Script utilizzati
